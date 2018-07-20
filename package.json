@@ -12,12 +12,12 @@
     "type": "git",
     "url": "git+https://github.com/semegoita/NYTReact"
   },
-  "author": "semere",
+  "author": "sem",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/semegoita/nyt-react/issues"
   },
-  "homepage": "https://github.com/semegoita/nyt-react#readme",
+
   "dependencies": {
     "axios": "^0.15.3",
     "body-parser": "^1.15.2",
